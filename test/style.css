@@ -1,0 +1,11 @@
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.item{
+    background-color: rgb(223, 220, 245);
+    color: rgb(3, 15, 15);
+    margin: 10px;
+    padding: 20px;
+}
